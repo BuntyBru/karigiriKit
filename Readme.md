@@ -158,6 +158,9 @@ pnpm --filter @karigiri-kit/core test:run
 >
 > In the meantime, everything is live and explorable at **[karigiri-kit.divdstack.com](https://karigiri-kit.divdstack.com/)**.
 
+<img width="1440" height="811" alt="image" src="https://github.com/user-attachments/assets/b7efe6e7-d25a-40d0-a47e-81d900c5fc7c" />
+
+
 ---
 
 *Built by [Divyanshu](https://divdstack.com/)*
